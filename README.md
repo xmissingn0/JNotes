@@ -1,0 +1,2 @@
+# JNotes
+Java text editor
